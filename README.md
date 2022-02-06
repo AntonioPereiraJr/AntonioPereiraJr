@@ -1,7 +1,7 @@
 # Antonio Pereira
 **Project Manager at ControlPay by Transporeon**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniomarcospereira/)](https://www.linkedin.com/in/tarcisiophilips/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniomarcospereira/)](https://www.linkedin.com/in/antoniomarcospereira/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tarcisio.rodrigues@professor.colegioplanck.com.br)](mailto:amarcospjunior@gmail.com)
 
 - :telescope: I'm currently working with **Project Management** and **Business Intelligence in Logistics**.
